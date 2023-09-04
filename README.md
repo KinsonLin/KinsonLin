@@ -1,7 +1,7 @@
-##自我介绍
+自我介绍
 大家好，我是林劲辰，来自中国浙江温州，为广东工业大学计算机学院21级学生，喜欢运动、听音乐和旅游，希望能在这里和大家分享交流经验。
 
-##Introduce
+Introduce
 hello, I'm Kinson from Wenzhou of Zhejiang province in China, a student of 2021 in GDUT's department of computer science. I like sports, listening to music and travel. Hope I can share and communicate with everyone for experience here.
 
 <!--
